@@ -1,6 +1,6 @@
 # Galeria de Arvore em Grid e Flex
-![](./flex/previewFlex)
-![](./Grid/previewGrid)
+![](./flex/previewFlex.png)
+![](./Grid/previewGrid.png)
 
 ## Projeto
 Galeria de arvores usando o grid
