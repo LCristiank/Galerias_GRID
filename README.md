@@ -9,3 +9,6 @@ Galeria de arvores usando o grid
 * CSS
 * GIT
 * Markdown
+
+## Autor
+[Luan Cristian](<https://github.com/LCristiank>)
